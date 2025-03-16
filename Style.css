@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(240, 224, 208);
+    padding-top: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.con1{
+    height: 1800px;
+    width: 1000px;
+    background-color: white;
+    box-shadow: 5px 5px 10px black;
+    padding: 3em;
+    text-align: center;
+    
+}
+#ProIMG{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+span{
+    line-height: 1px;
+}
+#sec{
+    max-width: 100%;
+    position: relative  ;
+    line-height: 30px;
+    text-align: left;   
+}
+#text{
+    font-size: 20px;
+    text-align: left;
+    position: relative;
+    left: 50px;
+}
+#sec1{
+    max-width: 100%;
+    position: relative  ;
+    line-height: 30px;
+    text-align: left;
+    left: 50px;
+}
+p{
+    font-size: 20px;
+    text-align: left;
+    position: relative;
+    left: 100px; 
+}
+i{
+    position: relative;
+    left: 150px;
+}
+
+
